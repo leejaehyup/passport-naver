@@ -1,5 +1,5 @@
 {
-  "name": "passport-naver",
+  "name": "n-passport-naver",
   "version": "1.0.6",
   "description": "Naver authentication strategy for Passport",
   "keywords": [
@@ -12,33 +12,16 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/naver/passport-naver.git"
+    "url": "git://github.com/leejaehyup/passport-naver.git"
   },
   "bugs": {
-    "url": "https://github.com/naver/passport-naver/issues"
+    "url": "https://github.com/leejaehyup/passport-naver/issues"
   },
   "author": {
-    "name": "Young-il Cho",
-    "email": "youngil.cho@navercorp.com",
-    "url": "http://github.com/terzeron"
+    "name": "Jaehyup Lee",
+    "email": "dlwoguq65@naver.com",
+    "url": "http://github.com/leejaehyup"
   },
-  "contributors": [
-    {
-      "name": "Chanhee Kim",
-      "email": "chanhee.kim@navercorp.com",
-      "url": ""
-    },
-    {
-      "name": "Seunglak Choi",
-      "email": "seunglak@gmail.com",
-      "url": ""
-    },
-    {
-      "name": "MooYeol Lee",
-      "email": "mooyoul@gmail.com",
-      "url": "https://github.com/mooyoul"
-    }
-  ],
   "licenses": [
     {
       "type": "MIT",
@@ -51,5 +34,5 @@
     "underscore": "^1.8.3"
   },
   "readmeFilename": "README.md",
-  "homepage": "https://github.com/naver/passport-naver"
+  "homepage": "https://github.com/leejaehyup/passport-naver"
 }
